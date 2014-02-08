@@ -1,0 +1,6 @@
+Les principales fonctions dans ce fichier sont:
+
+- APCA_rep:	Celle ci renvoie pour un signal de longueur N la représentation APCA de longueur 2xM de celui ci, c-à-d: une matrice 2xN dont la première
+		ligne contient les valeurs des segments et la deuxième contient la moyenne sur chacun des segments.
+
+- compute_APCA:	Celle ci renvoie l'approximation APCA d'un signal, sauf que le signal en sortie est de même longueur que le signal en entrée.

@@ -1,0 +1,4 @@
+Ce dossier contient:
+- Le code matlab utilisé pour le calcul du module (get_radius.m)
+- Des images représentant l'application de ce calcul et les représentations APCA et SAX obtenues à la fin (avec minimisation de la distance de Hausdorff)
+- des données contenant la distance correspondant à la représentation symbolique et celle de la reésentation adaptative entre les deux mains (représentées en mains.png) 
